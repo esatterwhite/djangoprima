@@ -1,2 +1,9 @@
 
 *.BridgeSort
+*.pydevproject/.pydevproject
+*.pyc
+*.pyo
+*.pyd
+
+*.project
+*.pydevproject
