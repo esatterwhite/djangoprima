@@ -12,7 +12,7 @@ class Board(BaseBoard):
            ('',''),
         )
         ordering = ()
-        verbose_name = ''
+        verbose_name = 'Board'
     
     def __unicode__(self):
         pass
